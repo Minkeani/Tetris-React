@@ -1,5 +1,5 @@
 import './App.css';
-import Tetris from './components/Tetris';
+import Tetris from './components/Tetris/Tetris';
 
 function App() {
   return (
